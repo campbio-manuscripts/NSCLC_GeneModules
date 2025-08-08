@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Ignore ARCHIVE script
+Scripts/Figure/archive
+Scripts/Figure/supplementary
+
+# Ignore submission credential
+./Nature_submission_credential.txt
